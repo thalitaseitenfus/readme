@@ -1,5 +1,5 @@
 Olá, eu sou a Thali!👩🏻
 
-<p>👩🏻‍🎓 Me formei em gestao da tecnologia da informacao e analise e desenvolvimento de sistemas</p>
-<p>👷🏻‍♀️ Sou pos graduada em Engenharia de Qualidade de Software</p>
-<p>🍺 Atualmente, programo e aprecio cervejas na AB-Inbev.</p>
+<p>👩🏻‍🎓 Me formei em Gestão da Tecnologia da Informação e Analise e Desenvolvimento de Sistemas.🎓</p>
+<p>👷🏻‍♀️ Sou Pós Graduada em Engenharia de Qualidade de Software. 🎓</p>
+<p>🍺 Atualmente, sou  Engenharia de Qualidade de Software na AB-Inbev.  👩🏻‍💻</p>
